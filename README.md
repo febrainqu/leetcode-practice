@@ -1,2 +1,2 @@
 # leetcode-practice
-study every day
+有趣的题目总结
